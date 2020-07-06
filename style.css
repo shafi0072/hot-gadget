@@ -12,3 +12,35 @@
     padding: 9px 30px;
     margin-top: 20px;
 }
+.container{
+    margin-bottom: 100px;
+}
+.See-All{
+    color: orange;
+    text-decoration: none;
+}
+.pricing{
+    text-align: center;
+    padding: 10px 0;
+}
+.product-button{
+    position: relative;
+    left: 90px;
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 9px 30px;
+    border-radius: 10px;
+    transition: background-color 1s ease-in-out;
+
+}
+.product-button:hover{
+    background-color:tomato;
+}
+.card-title{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
