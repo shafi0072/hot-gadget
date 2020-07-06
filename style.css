@@ -1,0 +1,14 @@
+.navbar-brand img{
+     width: 150px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.my-button{
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 9px 30px;
+    margin-top: 20px;
+}
