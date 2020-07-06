@@ -44,3 +44,51 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
+.categories{
+    text-align: center;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px;
+    width: 100%;
+    background-color: white;
+    margin-bottom: 10px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px ;
+    box-shadow: 5px 5px 10px lightgray;
+    
+}
+.cat1 img{
+    width: 90px;
+    
+
+}
+.cat2 img{
+    width: 90px;
+}
+.cat3 img{
+    width: 90px;
+}
+.cat1 h4{
+    text-align: center;
+    
+}
+.cat2 h4{
+    text-align: center;
+}
+.cat3 h4{
+    text-align: center;
+}
+.padding{
+    padding: 40px 80px;
+}
+.width{
+    width: 600px;
+    
+    
+}
+.pale{
+    width: 600px;
+}
+footer{
+    text-align: center;
+}
